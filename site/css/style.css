@@ -1,0 +1,101 @@
+body{
+	font-size: 120%;
+	color: #000000;
+	background-color: #ffffff;
+	font-family: 'Oxygen', sans-serif;
+
+}
+.navbarr{
+	border-bottom: 2px solid black;
+}
+.navbar{
+	padding-bottom: 0;
+}
+.header{
+	background-color: #999999;
+}
+.navbar-collapse{
+	padding: 0 12px 0 12px;
+}
+.sm-border{
+	border-bottom: 1px solid black;
+}
+nav .container{
+	margin-left: 0;
+}
+.container h1{
+	padding: 10px 0 10px 0;
+}
+.h1{
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+.center{
+	background-color: #999999;
+	margin: 0 auto 0;
+	padding: 0 5% 0 5%;
+}
+.center h2{
+	text-align: center;
+	padding-top: 10px;
+}
+
+li.nav-item a:hover{
+	background-color: #777777;
+}
+li.nav-item a:active{
+	background-color: #555555;
+}
+.navbar-nav{
+	padding-right:0px;
+}
+.navbar-nav > li{
+	display: block;
+}
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 0 0;
+}
+.navbar-toggler:hover{
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem;
+}
+.navbar-toggler:active {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem;
+}
+
+/*#logo-img{
+	background: url(../images/75years.jpg) no-repeat;
+	width: 166px;
+	height: 149px;
+	margin: 0px 0px -8px px;
+}
+.container{
+	margin-right: 0;
+	margin-left: 0;
+}
+.pull-left{
+	float: left;
+}
+
+.navbar-brand h1{
+	font-family: 'Kanit', sans-serif;
+	font-weight: bold;
+	color: black;
+	font-size: 300%;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 1px #222;
+	line-height: .75;
+	padding-top: 40px;
+}
+.navbar-brand a{
+	text-decoration: none;
+}
+.navbar-brand a:hover h1{
+	color: gray;
+}*/
